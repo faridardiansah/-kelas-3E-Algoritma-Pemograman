@@ -50,6 +50,9 @@ END IF
 END
 
 
+
+## Tes Case
+
 | Test Case | Input                          | Kondisi | Hasil yang Diharapkan               |
 | --------- | ------------------------------ | ------- | ----------------------------------- |
 | 1         | a=2, b=1, c=7, d=1, e=-1, f=1  | D ≠ 0   | x = 2.67 dan y = 1.67               |
@@ -57,6 +60,8 @@ END
 | 3         | a=1, b=1, c=5, d=2, e=2, f=10  | D = 0   | SPLDV tidak memiliki solusi tunggal |
 
 
-🐍 Implementasi Python
+
+
+## Implementasi Python
 Implementasi program dibuat menggunakan bahasa pemrograman Python dan dapat dijalankan melalui Visual Studio Code.
 Source code terdapat pada file main.py
