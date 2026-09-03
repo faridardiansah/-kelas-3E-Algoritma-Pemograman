@@ -50,6 +50,31 @@ END IF
 END
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Tes Case
 
 | Test Case | Input                          | Kondisi | Hasil yang Diharapkan               |
