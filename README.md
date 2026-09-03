@@ -52,7 +52,7 @@ END
 
 ## Flowchart
 
-<img width="1050" height="1499" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/4e661985-bd80-49a6-94cb-914b400c8ef6" />
+<img width="950" height="1050" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/4e661985-bd80-49a6-94cb-914b400c8ef6" />
 
 
 
